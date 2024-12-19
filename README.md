@@ -1,4 +1,8 @@
 # contribute-reward-webhook
+npm install dotenv
+npm install axios   
+npm install discord.js
+npm init -y
 Yes, this code provides a way to reward players for contributing by sending a webhook notification when they are recognized for their helpfulness. Here's a quick breakdown of the flow:
 
 Reaction Detection: When a player reacts with a specific emoji (in this case, ✅) to a message, it triggers an event in the bot.
