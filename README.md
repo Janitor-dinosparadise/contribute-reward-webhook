@@ -1,9 +1,8 @@
 # contribute-reward-webhook
-tru vs code and node.js need to install
-npm install dotenv
-npm install axios   
-npm install discord.js
-npm init -y
+tru vs code and node.js
+
+need to just run nmp install
+
 
 
 Yes, this code provides a way to reward players for contributing by sending a webhook notification when they are recognized for their helpfulness. Here's a quick breakdown of the flow:
